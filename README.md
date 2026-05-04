@@ -4,6 +4,7 @@ Projeto Final UC2 - Senac
 Projeto utilizado HTML, CSS e jAVAsCRIPT. O usuário escolhe itens e o sistema calcula o total com desconto.
 ---
 NO INICIO DO APLICATIVO, APARECE UM VÍDEO DE UM DOS FILMES QUE TEMOS! 
+<video src="https://www.youtube.com/watch?v=-YbiBclEEgo" autoplay muted loop style="max-width: 100;"></video>
 <img width="1890" height="945" alt="Captura de tela 2026-05-04 163642" src="https://github.com/user-attachments/assets/8e28e1a0-f700-46a7-8017-c8f57dfb4d3f" />
 
 ---
